@@ -10,7 +10,7 @@
   ## Description
   This application allows the user to add persistent notes that can be recalled and deleted. 
   
-  ![landing Page(/img/2022-02-07_20-45-48.png)
+  ![landing Page](/img/2022-02-07_20-45-48.png)
   
   
   ## Installation
