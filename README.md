@@ -10,6 +10,9 @@
   ## Description
   This application allows the user to add persistent notes that can be recalled and deleted. 
   
+  ![landing Page(/img/2022-02-07_20-45-48.png)
+  
+  
   ## Installation
   This application is deployed via Heroku.
   
@@ -18,8 +21,8 @@
   
   ## Links
   [GitHub](https://github.com/edavis56) 
-  [Heroku](https://github.com/edavis56) 
+  [Heroku](https://lit-ridge-88478.herokuapp.com/) 
 
   ### Reach me here: 
   [edavis56](https://github.com/edavis56)  
-  NA
+  
